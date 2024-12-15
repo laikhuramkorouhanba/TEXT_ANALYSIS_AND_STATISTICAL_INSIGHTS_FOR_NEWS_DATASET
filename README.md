@@ -14,5 +14,4 @@
 <p>This dataset, available on Kaggle,  contains over 20,700 English news articles delving into various aspects of the space industry. With a compressed size of 30MB, it offers a rich resource for text analysis tasks, encompassing a total of over 14 million words.
 
 The dataset covers a diverse range of news within the space sector, including agency pronouncements, commercial ventures, civil space programs, launch updates, military applications, and even thought-provoking opinion pieces. This variety provides a comprehensive picture of current events and discussions surrounding space exploration.</p>
-<p>LINK: https://www.kaggle.com/datasets/patrickfleith/space-news-dataset/data
-</p>
+<p>LINK: https://www.kaggle.com/datasets/patrickfleith/space-news-dataset/data</p>
